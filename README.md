@@ -11,10 +11,13 @@ helpers globales etc. Que pueden ahorrarte mucho tiempo si piensas ir directo a 
 
 - Instalador desde cero
 - Motor de plantillas para tematización
+- Motor de plantillas de CRUDS (Más avanzado que Artisan)
 - Función auditoría general
 - Gestión de uploads y archivos 
 - Parámetros de configuración
-
+- Importación de datos desde diversos formatos de fuentes
+- Integración con mensajería Telegram
+- Servicio de mensajería y chat configurables
 
 ## Contribuciones
 
